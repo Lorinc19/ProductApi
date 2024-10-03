@@ -1,0 +1,12 @@
+[
+  {
+    "ContainingType": "ProductAPi.Controllers.ProductController",
+    "Method": "Get",
+    "RelativePath": "products",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]
